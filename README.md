@@ -1,5 +1,3 @@
-# First_Solidity_Homework
-
 # Example Smart Contract
 
 Bu repo, Ethereum ağı üzerinde çalışan bir akıllı sözleşmeyi içerir. Bu sözleşme, bir sayaç ve bu sayaça ait bir açıklama içerir. Aşağıda, sözleşmenin temel özelliklerinden biri olan `get_description` fonksiyonu hakkında kısa bir açıklama bulunmaktadır.
